@@ -57,6 +57,3 @@ This function simulates the movement of the elevator:
 - Add an interactive mode where users can input floors dynamically.
 - Implement an optimized path calculation to minimize total travel time.
 - Enhance the script with GUI or web-based visualization.
-
----
-This project serves as a simple demonstration of algorithmic thinking and command-line scripting in JavaScript. 🚀
