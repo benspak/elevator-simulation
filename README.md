@@ -12,7 +12,7 @@ The script takes input from the command line and executes the following steps:
 ## Usage
 To run the program, use the following command:
 ```sh
-node elevator.js <start_floor> <floor1> <floor2> ... <floorN>
+node index.js <start_floor> <floor1> <floor2> ... <floorN>
 ```
 Example:
 ```sh
