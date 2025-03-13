@@ -16,7 +16,7 @@ node index.js <start_floor> <floor1> <floor2> ... <floorN>
 ```
 Example:
 ```sh
-node elevator.js 12 2 9 1 32
+node index.js 12 2 9 1 32
 ```
 ### Expected Output
 ```
